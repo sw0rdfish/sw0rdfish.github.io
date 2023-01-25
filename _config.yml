@@ -28,7 +28,7 @@ twitter_username: sw0rdfish
 #github_username:  jekyll
 
 # Build settings
-remote_theme: pages-themes/tactile@v0.2.0
+theme: minima
 plugins:
   - jekyll-feed
 
